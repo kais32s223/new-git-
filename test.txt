@@ -17,6 +17,6 @@ new 5
 
 new 6
 
-new 7
+new 7 from branch1
 
 conflict line - from branch1

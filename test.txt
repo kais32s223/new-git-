@@ -19,4 +19,4 @@ new 6
 
 new 7
 
-conflict line
+conflict line - from branch1

@@ -32,8 +32,4 @@ gfsdfdsfsd
 
 3312331
 
-<<<<<<< HEAD
 fsdsdfsd
-=======
-fsdsdfsd
->>>>>>> branch3

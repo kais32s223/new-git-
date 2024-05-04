@@ -30,12 +30,6 @@ gfsdfdsfsd
 
 12312312312
 
-<<<<<<< HEAD
-fsdfsdfsfs
-
-fsfsdfsd
-=======
 3312331
 
 fsdsdfsd
->>>>>>> branch3
